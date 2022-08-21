@@ -8,7 +8,7 @@ Contributors:
 - Andrew Shereef s173750
 - Alban Dalifi s205416
 
-## Assignment specifications (see pdf 02322 Machine Oriented programming Project 1 Group 28) ##
+## Assignment specifications (see pdf: 02322 Machine Oriented programming Project 1 Group 28) ##
 
 ### AssignmentDeliverable1 ###
 To solve this exercise, a diagram deconstructing the operations needed to find the midpoint
