@@ -9,6 +9,7 @@ Contributors:
 - Alban Dalifi s205416
 
 ## Assignment specifications (see pdf: 02322 Machine Oriented programming Project 1 Group 28) ##
+Assembly code made for the LC-3 16 bit computer.
 
 ### AssignmentDeliverable1 ###
 To solve this exercise, a diagram deconstructing the operations needed to find the midpoint
